@@ -1,0 +1,120 @@
+WARNING:tensorflow:Falling back to tensorflow client, its recommended to install the cloud tpu client directly with pip install cloud-tpu-client .
+WARNING:root:Limited tf.compat.v2.summary API due to missing TensorBoard installation.
+WARNING:root:Limited tf.compat.v2.summary API due to missing TensorBoard installation.
+WARNING:root:Limited tf.compat.v2.summary API due to missing TensorBoard installation.
+WARNING:root:Limited tf.compat.v2.summary API due to missing TensorBoard installation.
+WARNING:root:Limited tf.compat.v2.summary API due to missing TensorBoard installation.
+WARNING:root:Limited tf.compat.v2.summary API due to missing TensorBoard installation.
+WARNING:root:Limited tf.summary API due to missing TensorBoard installation.
+2019-12-19 10:58:09.895450: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2019-12-19 10:58:09.936998: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2019-12-19 10:58:09.937114: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (cn2): /proc/driver/nvidia/version does not exist
+2019-12-19 10:58:09.961462: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2199860000 Hz
+2019-12-19 10:58:09.966960: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ea644e59e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-19 10:58:09.967031: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Dl Completed...: 0 url [00:00, ? url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:   0%|          | 0/1 [00:00<?, ? url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:   0%|          | 0/2 [00:00<?, ? url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:   0%|          | 0/3 [00:00<?, ? url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:   0%|          | 0/4 [00:00<?, ? url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[A/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+Dl Completed...:   0%|          | 0/4 [00:00<?, ? url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:  25%|██▌       | 1/4 [00:00<00:02,  1.07 url/s]Dl Completed...:  25%|██▌       | 1/4 [00:00<00:02,  1.07 url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:  25%|██▌       | 1/4 [00:00<00:02,  1.07 url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:  50%|█████     | 2/4 [00:00<00:01,  1.07 url/s]
+Dl Size...: 0 MiB [00:00, ? MiB/s][A
+
+Extraction completed...: 0 file [00:00, ? file/s][A[ADl Completed...:  50%|█████     | 2/4 [00:01<00:01,  1.07 url/s]
+Dl Size...: 0 MiB [00:01, ? MiB/s][A
+
+Extraction completed...: 0 file [00:01, ? file/s][A[ADl Completed...:  75%|███████▌  | 3/4 [00:01<00:00,  1.47 url/s]Dl Completed...:  75%|███████▌  | 3/4 [00:01<00:00,  1.47 url/s]
+Dl Size...: 0 MiB [00:01, ? MiB/s][A
+
+Extraction completed...: 0 file [00:01, ? file/s][A[A/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+Dl Completed...:  75%|███████▌  | 3/4 [00:02<00:00,  1.47 url/s]
+Dl Size...: 0 MiB [00:02, ? MiB/s][A
+
+Extraction completed...: 0 file [00:02, ? file/s][A[ADl Completed...: 100%|██████████| 4/4 [00:02<00:00,  1.07 url/s]Dl Completed...: 100%|██████████| 4/4 [00:02<00:00,  1.07 url/s]
+Dl Size...: 0 MiB [00:02, ? MiB/s][A
+
+Extraction completed...: 0 file [00:02, ? file/s][A[AExtraction completed...: 0 file [00:02, ? file/s]
+Dl Size...: 0 MiB [00:02, ? MiB/s]
+Dl Completed...: 100%|██████████| 4/4 [00:02<00:00,  1.52 url/s]
+[1mDownloading and preparing dataset celeb_a (1.38 GiB) to /home/aesk/tensorflow_datasets/celeb_a/0.3.0...[0m
+Traceback (most recent call last):
+  File "../src/train.py", line 155, in <module>
+    dataset_args = module.default_datasets()
+  File "/home/aesk/git/AML-project/src/models/celeb.py", line 82, in default_datasets
+    dataset_train: tf.data.Dataset = tfds.load(name='celeb_a', split=tfds.Split.TRAIN).map(preprocessing)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/api_utils.py", line 52, in disallow_positional_args_dec
+    return fn(*args, **kwargs)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/registered.py", line 305, in load
+    dbuilder.download_and_prepare(**download_and_prepare_kwargs)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/api_utils.py", line 52, in disallow_positional_args_dec
+    return fn(*args, **kwargs)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/dataset_builder.py", line 333, in download_and_prepare
+    download_config=download_config)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/dataset_builder.py", line 1008, in _download_and_prepare
+    max_examples_per_split=download_config.max_examples_per_split,
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/dataset_builder.py", line 859, in _download_and_prepare
+    for split_generator in self._split_generators(dl_manager):
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/image/celeba.py", line 129, in _split_generators
+    "landmarks_celeba": LANDMARKS_DATA,
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/download/download_manager.py", line 374, in download_and_extract
+    return _map_promise(self._download_extract, url_or_urls)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/download/download_manager.py", line 415, in _map_promise
+    res = utils.map_nested(_wait_on_promise, all_promises)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/utils/py_utils.py", line 145, in map_nested
+    for k, v in data_struct.items()
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/utils/py_utils.py", line 145, in <dictcomp>
+    for k, v in data_struct.items()
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/utils/py_utils.py", line 159, in map_nested
+    return function(data_struct)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/download/download_manager.py", line 399, in _wait_on_promise
+    return p.get()
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/promise/promise.py", line 510, in get
+    return self._target_settled_value(_raise=True)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/promise/promise.py", line 514, in _target_settled_value
+    return self._target()._settled_value(_raise)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/promise/promise.py", line 224, in _settled_value
+    reraise(type(raise_val), raise_val, self._traceback)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/promise/promise.py", line 85, in try_catch
+    return (handler(*args, **kwargs), None)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/download/download_manager.py", line 261, in callback
+    resource, download_dir_path, checksum, dl_size)
+  File "/home/aesk/anaconda3/envs/edge/lib/python3.7/site-packages/tensorflow_datasets/core/download/download_manager.py", line 216, in _handle_download_result
+    raise NonMatchingChecksumError(resource.url, tmp_path)
+tensorflow_datasets.core.download.download_manager.NonMatchingChecksumError: Artifact https://drive.google.com/uc?export=download&id=0B7EVK8r0v71pZjFTYXZWM3FlRnM, downloaded to /home/aesk/tensorflow_datasets/downloads/ucexport_download_id_0B7EVK8r0v71pZjFTYXZWM3FlDDaXUAQO8EGH_a7VqGNLRtW52mva1LzDrb-V723OQN8.tmp.cb65bef9115d400cbea7dbbedca8e678/uc, has wrong checksum.
+srun: error: cn2: task 0: Exited with exit code 1

@@ -1,0 +1,8 @@
+{
+    "log_path": "/home/dovi/home/AML_GAN/logs",
+    "log_dir": "l5",
+    "model": "cifar10_dense2",
+    "model_path": "/home/dovi/home/AML_GAN/logs/models/cifar10_dense",
+    "optimiser": "default",
+    "epochs": 500
+}

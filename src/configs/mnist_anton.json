@@ -1,0 +1,8 @@
+{
+    "log_path": "/Users/Anton/Documents/git/AML-project/logs",
+    "log_dir": "l5",
+    "model": "mnist",
+    "model_path": "/Users/Anton/Documents/git/AML-project/models/mnist3",
+    "optimiser": "default",
+    "epochs": 150
+}

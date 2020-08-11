@@ -1,0 +1,61 @@
+/usr/local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/usr/local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/usr/local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/usr/local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/usr/local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/usr/local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+TensorBoard 2.2.0a20191218 at http://0.0.0.0:8005/ (Press CTRL+C to quit)
+W1219 12:44:26.061467 140386584807168 core_plugin.py:215] Unable to get first event timestamp for run 20191219-124421: No event timestamp could be found
+W1219 12:46:51.932498 140386584807168 core_plugin.py:215] Unable to get first event timestamp for run 20191219-124647: No event timestamp could be found
+W1219 12:49:03.863023 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-124901: No event timestamp could be found
+W1219 12:51:06.364068 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-125104: No event timestamp could be found
+W1219 12:51:07.748747 140386173449984 core_plugin.py:215] Unable to get first event timestamp for run 20191219-125104: No event timestamp could be found
+W1219 12:51:10.596301 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-125104: No event timestamp could be found
+W1219 12:59:06.495833 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-125903: No event timestamp could be found
+W1219 13:03:02.983637 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-130255: No event timestamp could be found
+W1219 14:50:16.836117 140386584807168 core_plugin.py:215] Unable to get first event timestamp for run 20191219-145011: No event timestamp could be found
+W1219 14:50:17.435654 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-145011: No event timestamp could be found
+W1219 15:00:44.441836 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:00:48.525621 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:00:51.480366 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:04.505420 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:05.270901 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:05.813452 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:06.019114 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:06.327471 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:06.554672 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:06.769252 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:13.539052 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:14.179884 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:14.385043 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:01:16.430730 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150023: No event timestamp could be found
+W1219 15:06:55.641485 140386173449984 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150628: No event timestamp could be found
+W1219 15:07:01.251043 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150628: No event timestamp could be found
+W1219 15:07:03.164999 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150628: No event timestamp could be found
+W1219 15:07:31.338569 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-150727: No event timestamp could be found
+W1219 15:12:29.960966 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:12:39.337997 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:12:59.168923 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:12:59.937046 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:12:59.987420 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:00.465913 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:00.669662 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:02.718020 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:02.902224 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:03.067394 140386584807168 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:03.227042 140386148271872 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:03.469483 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:03.694587 140386165057280 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:05.638569 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:13:05.821264 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151226: No event timestamp could be found
+W1219 15:17:01.791543 140386584807168 core_plugin.py:215] Unable to get first event timestamp for run 20191219-151633: No event timestamp could be found
+W1219 15:27:00.285711 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-152656: No event timestamp could be found
+W1219 15:27:05.359403 140386257274624 core_plugin.py:215] Unable to get first event timestamp for run 20191219-152656: No event timestamp could be found
+W1219 16:18:04.743450 140386584807168 core_plugin.py:215] Unable to get first event timestamp for run 20191219-161800: No event timestamp could be found
+W1219 16:52:17.953887 140386156664576 core_plugin.py:215] Unable to get first event timestamp for run 20191219-165204: No event timestamp could be found

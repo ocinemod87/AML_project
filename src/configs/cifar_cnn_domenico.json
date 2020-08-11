@@ -1,0 +1,12 @@
+{
+    "log_path": "/home/dovi/home/AML_GAN/logs",
+    "log_dir": "l5",
+<<<<<<< HEAD
+    "model": "cifar10_cnn2",
+=======
+    "model": "cifar10_cnn3",
+>>>>>>> c9f96fa19aa2fc15bb1e5c0378abab3112434497
+    "model_path": "/home/dovi/home/AML_GAN/logs/models/cifar10_cnn",
+    "optimiser": "default",
+    "epochs": 500
+}

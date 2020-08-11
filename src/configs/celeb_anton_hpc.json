@@ -1,0 +1,8 @@
+{
+    "log_path": "/home/aesk/git/AML-project/logs",
+    "log_dir": "celeb",
+    "model": "celeb",
+    "model_path": "/home/aesk/git/AML-project/models/celeb_anton1",
+    "optimiser": "default",
+    "epochs": 150
+}

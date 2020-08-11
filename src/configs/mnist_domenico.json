@@ -1,0 +1,8 @@
+{
+    "log_path": "/home/dovi/home/AML_GAN/logs",
+    "log_dir": "l5",
+    "model": "mnist",
+    "model_path": "/home/dovi/home/AML_GAN/logs/models/mnist",
+    "optimiser": "default",
+    "epochs": 150
+}

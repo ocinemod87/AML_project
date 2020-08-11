@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#SBATCH -J cifar-cnn-train             # Job name
+#SBATCH -N 1                  # Total number of nodes requested
+#SBATCH -t 24:00:00           # Run time (hh:mm:ss) - 1 hours
+#SBATCH -p gpu
+#SBATCH --gres=gpu:v100:1
+#SBATCH -o stdout.%j
+#SBATCH -e stderr.%j
+#SBATCH --export=ALL
+
+source /home/dovi/anaconda3/bin/activate myenv
+
+export PYTHONPATH=/home/dovi/home/AML_GAN/AML-project/src:$PYTHONPATH
+
+<<<<<<< HEAD
+srun python ../src/train2.py ../src/configs/cifar_cnn_domenico.json
+=======
+srun python ../src/train_2.py ../src/configs/cifar_cnn_domenico.json
+>>>>>>> c9f96fa19aa2fc15bb1e5c0378abab3112434497

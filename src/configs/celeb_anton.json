@@ -1,0 +1,8 @@
+{
+    "log_path": "/Users/Anton/Documents/git/AML-project/logs",
+    "log_dir": "l5",
+    "model": "celeb",
+    "model_path": "/Users/Anton/Documents/git/AML-project/models/cifar1",
+    "optimiser": "default",
+    "epochs": 150
+}

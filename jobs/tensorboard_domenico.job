@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#SBATCH -J tb             # Job name
+#SBATCH -o logs/pt.out      # Name of stdout output file (%j expands to jobId)
+#SBATCH -N 1                  # Total number of nodes requested
+#SBATCH -n 1                  # Total number of mpi tasks requested
+#SBATCH -t 24:00:00           # Run time (hh:mm:ss) - 1 hours
+## # ##SBATCH -p gpu
+#SBATCH -c 1
+# # #SBATCH --gres=gpu:v100:1
+#SBATCH --mem=60000M
+
+export PYTHONPATH=/home/dovi/home/AML_GAN/AML-project/src:$PYTHONPATH
+
+source /home/dovi/anaconda3/bin/activate myenv
+
+srun tensorboard --logdir /home/dovi/home/AML_GAN/logs/l5 --host 0.0.0.0 --port 8095

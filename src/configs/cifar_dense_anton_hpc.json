@@ -1,0 +1,8 @@
+{
+    "log_path": "/home/aesk/git/AML-project/logs",
+    "log_dir": "a1",
+    "model": "cifar10_dense2",
+    "model_path": "/home/aesk/git/AML-project/models/cifar_dense1",
+    "optimiser": "default",
+    "epochs": 150
+}

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH -J mnist-train             # Job name
+#SBATCH -N 1                  # Total number of nodes requested
+#SBATCH -t 24:00:00           # Run time (hh:mm:ss) - 1 hours
+#SBATCH -p gpu
+#SBATCH --gres=gpu:v100:1
+#SBATCH -o stdout.%j
+#SBATCH -e stderr.%j
+#SBATCH --export=ALL
+
+export PYTHONPATH=/home/dovi/home/AML_GAN/AML-project/src:$PYTHONPATH
+
+source /home/dovi/anaconda3/bin/activate myenv
+
+srun python ../src/train.py ../src/configs/mnist_domenico.json
